@@ -1,0 +1,20 @@
+[
+{
+	"modid": "AC",
+	"name": "AutomatiCraft",
+	"description": "Make stuff more automated!",
+	"version": "0.0.1",
+	"url": "https://github.com/Xares/Automation-mod",
+	"updateUrl": "",
+	"authorList": [
+		"Evilwarlich"
+	],
+	"credits": "By Evilwarlich, based on the idea of automization and wanting to mod for myself :)",
+	"logoFile": "",
+	"screenshots": [
+	],
+	"parent": "",
+	"dependencies": [
+	]
+}
+]
